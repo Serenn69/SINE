@@ -1,0 +1,69 @@
+game:
+ date: 
+ players:
+ victory:
+  team:
+  players:
+ defeat:
+  team:
+  players:
+ rounds: 0
+
+options:
+ rank:
+ time:
+ weather:
+
+ prep: 
+ def: 
+ fight: 
+ begin: 
+ golds: 
+
+ map:
+ size:
+ 
+ equi: 
+ ff:
+ invis:
+ 
+ finish: 0
+ 
+rounds:
+ 1: 
+  one:
+   atk: 
+   def: 
+   kills: 
+   deaths: 
+   mateKills:  
+   flagTaken: 
+   flagCaptur:
+   flagDrop:  
+   flagBack: 
+   perfect: 
+   perfDef: 
+   blitz: 
+   winRd: 
+   loseRd: 
+   goldsRd: 
+   goldsTotal: 
+   buyRd: 
+  two:
+   atk: 
+   def: 
+   kills: 
+   deaths: 
+   mateKills: 
+   flagTaken: 
+   flagDrop: 
+   flagCaptur: 
+   flagBack: 
+   perfect: 
+   perfDef: 
+   blitz: 
+   winRd: 
+   loseRd: 
+   goldsRd: 
+   goldsTotal: 
+   buyRd: 

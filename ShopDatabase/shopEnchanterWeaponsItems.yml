@@ -1,0 +1,189 @@
+enchanter:
+ weapons:
+  sharpness:
+   1:
+    p: 8
+    name: "&oSharpness I"
+    lore:
+     1: "&4&oApply Sharpness I on item in hand"
+     2: "&4&oOnly for swords and axes"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBeware of your fingers"
+     nbr: 3
+   2:
+    p: 12
+    name: "&oSharpness II"
+    lore:
+     1: "&4&oApply Sharpness II on item in hand"
+     2: "&4&oOnly for swords and axes"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBeware of your fingers"
+     nbr: 3
+   3:
+    p: 16
+    name: "&oSharpness III"
+    lore:
+     1: "&4&oApply Sharpness III on item in hand"
+     2: "&4&oOnly for swords and axes"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBeware of your fingers"
+     nbr: 3
+   4:
+    p: 20
+    name: "&oSharpness IV"
+    lore:
+     1: "&4&oApply Sharpness IV on item in hand"
+     2: "&4&oOnly for swords and axes"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBeware of your fingers"
+     nbr: 3
+   5:
+    p: 24
+    name: "&oSharpness V"
+    lore:
+     1: "&4&oApply Sharpness V on item in hand"
+     2: "&4&oOnly for swords and axes"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBeware of your fingers"
+     nbr: 3
+  knockback:
+   1:
+    p: 10
+    name: "&oKnockback I"
+    lore:
+     1: "&4&oApply Knockback I on item in hand"
+     2: "&4&oOnly for swords"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 3
+   2:
+    p: 20
+    name: "&oKnockback II"
+    lore:
+     1: "&4&oApply Knockback II on item in hand"
+     2: "&4&oOnly for swords"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 3
+  fireaspect:
+   1:
+    p: 7
+    name: "&oFire Aspect I"
+    lore:
+     1: "&4&oApply Fire Aspect I on item in hand"
+     2: "&4&oOnly for swords"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o"
+     nbr: 3
+   2:
+    p: 16
+    name: "&oFire Aspect II"
+    lore:
+     1: "&4&oApply Fire Aspect II on item in hand"
+     2: "&4&oOnly for swords"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o"
+     nbr: 3
+  power:
+   1:
+    p: 8
+    name: "&oPower I"
+    lore:
+     1: "&4&oApply Power I on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWithout skill, power is nothing !"
+     nbr: 3
+   2:
+    p: 12
+    name: "&oPower II"
+    lore:
+     1: "&4&oApply Power II on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWithout skill, power is nothing ! "
+     nbr: 3
+   3:
+    p: 16
+    name: "&oPower III"
+    lore:
+     1: "&4&oApply Power III on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWithout skill, power is nothing !"
+     nbr: 3
+   4:
+    p: 20
+    name: "&oPower IV"
+    lore:
+     1: "&4&oApply Power IV on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWithout skill, power is nothing !"
+     nbr: 3
+   5:
+    p: 24
+    name: "&oPower V"
+    lore:
+     1: "&4&oApply Power V on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWithout skill, power is nothing !"
+     nbr: 3
+  punch:
+   1:
+    p: 15
+    name: "&oPunch I"
+    lore:
+     1: "&4&oApply Punch I on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oOne Punch Man ?!"
+     nbr: 3
+   2:
+    p: 30
+    name: "&oPunch II"
+    lore:
+     1: "&4&oApply Punch II on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oOne Punch Man ?!"
+     nbr: 3
+  flame:
+   1:
+    p: 10
+    name: "&oFlame I"
+    lore:
+     1: "&4&oApply Flame I on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oPyro-Barbare !"
+     nbr: 3
+  infinity:
+   1:
+    p: 20
+    name: "&oInfinity I"
+    lore:
+     1: "&4&oApply Infinity I on item in hand"
+     2: "&4&oOnly for bows"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oAgain and again and again and again"
+     nbr: 3

@@ -1,0 +1,15 @@
+news:
+ infos:
+  1: "&cBar and text in red for important news !"
+  2: "&cImportant news 2"
+  3: "&cImportant news 3"
+ events:
+  1: "&dBar and text in purple for events news !" 
+  2: "&dEvents news 2"
+  3: "&dEvents news 3"
+ ads:
+  1: "&9Bar and text in blue for ads and website !"
+  2: "&9Ads and website 2"
+  3: "&9Ads and website 3"
+  
+welcome: "&cWelcome on &6SINE&c : Teams game with strategy and PvP !"

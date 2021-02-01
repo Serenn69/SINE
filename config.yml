@@ -1,0 +1,58 @@
+settings:
+ default:
+  gene: "&6--- &d&lGENERAL OPTIONS : &6---"
+  rank: "&9Game : &cUNRANKED"
+  time: "&9Time : &cDAY"
+  weather: "&9Weather : &cSUN"
+  begin: "&9Game Begin : &cRED &fattack &9/ &aGREEN &fdefense"
+  golds: "&9Golds Multiplicator : &cx 1"
+  timers: "&6--- &d&lTIMERS OPTIONS : &6---"
+  prep: "&9Preparation : &cUnlimited"
+  fight: "&9Fight : &cUnlimited"
+  def: "&9Defense : &cNo"
+  maps: "&6--- &d&lMAP OPTIONS : &6---"
+  map: "&9Map : &cRUINS"
+  size: "&9Map Size : &cSMALL"
+  teams: "&6--- &d&lTEAM OPTIONS : &6---"
+  equi: "&9Balance Teams : &cON"
+  ff: "&9FriendlyFire : &cOFF"
+  invis: "&9Invisible Mates : &c OFF"
+  
+ game:
+  rank: "&9Game : &cUNRANKED"
+  time: "&9Time : &cDAY"
+  weather: "&9Weather : &cSUN"
+  begin: "&9Game Begin : &cRED &fattack &9/ &aGREEN &fdefense"
+  golds: "&9Golds Multiplicator : &cx 1"
+  prep: "&9Preparation : &cUnlimited"
+  fight: "&9Fight : &cUnlimited"
+  def: "&9Defense : &cNo"
+  map: "&9Map : &cRUINS"
+  size: "&9Map Size : &cSMALL"
+  equi: "&9Balance Teams : &cON"
+  ff: "&9FriendlyFire : &cOFF"
+  invis: "&9Invisible Mates : &cOFF"
+  
+options:
+ cancel: 1
+ equi: 0
+ def: -1
+ fight: -1
+ prep: -1
+ begin: 0
+ golds: 1
+ begingold: 50
+ 
+score:
+ winRd: 100
+ loseRd: 50
+ takeFlag: 25
+ capturFlag: 50
+ dropFlag: 50
+ backFlag: 25
+ noDeath: 60
+ blitz: 80
+ perfDef: 80
+ kills: 10
+ mateKills: -10
+ draw: 50

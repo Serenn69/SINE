@@ -1,0 +1,281 @@
+junk:
+ tools:
+  pickaxes:
+   wood:
+    p: 150
+    name: "&oWood pickaxe"
+    lore:
+     1: "&4&oCan break beacons"
+     2: "&4&oUsed to break the planks"
+     3: "&4&oLow durability"
+     4: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oDon't forget under rain"
+     nbr: 4
+   stone:
+    p: 300
+    name: "&oStone pickaxe"
+    lore:
+     1: "&4&oCan break beacons"
+     2: "&4&oUsed to break the planks"
+     3: "&4&oUsed to break the stonebricks"
+     4: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oYou need strong arms !"
+     nbr: 4
+   iron:
+    p: 600
+    name: "&oIron pickaxe"
+    lore:
+     1: "&4&oCan break beacons"
+     2: "&4&oUsed to break the planks"
+     3: "&4&oUsed to break the stonebricks"
+     4: "&4&oUsed to break the iron blocks"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBFF of Seven Dwarves"
+     nbr: 5
+   diamond:
+    p: 1200
+    name: "&oDiamond pickaxe"
+    lore:
+     1: "&4&oCan break beacons"
+     2: "&4&oUsed to break the planks"
+     3: "&4&oUsed to break the stonebricks"
+     4: "&4&oUsed to break the iron blocks"
+     5: "&4&oUsed to break the End stones"
+     6: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBest pickaxe EVER my friend !"
+     nbr: 6
+     
+  buckets:
+   water:
+    p: 8
+    name: "&oWater bucket"
+    lore:
+     1: "&4&oUsed to extinguish the fire"
+     2: "&4&oCan slow an opponent"
+     3: "&4&o "
+     4: "&4&oCan be placed on the grass"
+     5: "&4&oCan be placed on the stone"
+     6: "&4&oCan be placed on the planks"
+     7: "&4&oCan be placed on the stonebricks"
+     8: "&4&oCan be placed on the iron blocks"
+     9: "&4&oCan be placed on the End stones"
+     10: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBe careful not to drown"
+     nbr: 10
+   milk:
+    p: 6
+    name: "&oMilk bucket"
+    lore:
+     1: "&4&oClear negatives and positives effects"
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMoo-moo ?!"
+     nbr: 3
+    
+  beacons:
+   strength:
+    p: 125
+    name: "&oBeacon of Strength"
+    lore:
+     1: "&4&oBroadcasts a strength buff around it"
+     2: "&4&oStrength increase melee damage by 3 (1.5 hearts)"
+     3: "&4&o "
+     4: "&4&oCan be placed on the grass"
+     5: "&4&oCan be placed on the stone"
+     6: "&4&oCan be placed on the planks"
+     7: "&4&oCan be placed on the stonebricks"
+     8: "&4&oCan be placed on the iron blocks"
+     9: "&4&oCan be placed on the End stones"
+     10: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMay the Force be with you ! "
+     nbr: 10
+   swiftness:
+    p: 100
+    name: "&oBeacon of Speed"
+    lore:
+     1: "&4&oBroadcasts a speed buff around it"
+     2: "&4&oSpeed increase walking speed by 20%"
+     3: "&4&oExpands field of view accordingly"
+     4: "&4&o "
+     5: "&4&oCan be placed on the grass"
+     6: "&4&oCan be placed on the stone"
+     7: "&4&oCan be placed on the planks"
+     8: "&4&oCan be placed on the stonebricks"
+     9: "&4&oCan be placed on the iron blocks"
+     10: "&4&oCan be placed on the End stones"
+     11: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFlash ! "
+     nbr: 11
+   regen:
+    p: 150
+    name: "&oBeacon of Regeneration"
+    lore:
+     1: "&4&oBroadcasts a regeneration buff around it"
+     2: "&4&oHeals over time"
+     3: "&4&o1 health (0.5 heart) every 2.5 seconds"
+     4: "&4&o "
+     5: "&4&oCan be placed on the grass"
+     6: "&4&oCan be placed on the stone"
+     7: "&4&oCan be placed on the planks"
+     8: "&4&oCan be placed on the stonebricks"
+     9: "&4&oCan be placed on the iron blocks"
+     10: "&4&oCan be placed on the End stones"
+     11: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oCan't heal the cut members ! "
+     nbr: 11
+   protection:
+    p: 70
+    name: "&oBeacon of Resistance"
+    lore:
+     1: "&4&oBroadcasts a resistance buff around it"
+     2: "&4&oReduces all incoming damage"
+     3: "&4&o "
+     4: "&4&oCan be placed on the grass"
+     5: "&4&oCan be placed on the stone"
+     6: "&4&oCan be placed on the planks"
+     7: "&4&oCan be placed on the stonebricks"
+     8: "&4&oCan be placed on the iron blocks"
+     9: "&4&oCan be placed on the End stones"
+     10: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBest defense still remains the attack ! "
+     nbr: 10
+     
+  traps:
+   poison:
+    p: 120
+    name: "&2&oPoison Trap"
+    lore:
+     1: "&e&oNOT YET IMPLEMENTED, NOT WORKING !"
+     2: "&4&o "
+     3: "&4&oSet a poisonous trap"
+     4: "&4&oFires when ennemy(ies) is near it"
+     5: "&4&oRemoves 0.4 heart per second"
+     6: "&4&o "
+     7: "&4&oCan be placed on the grass"
+     8: "&4&oCan be placed on the stone"
+     9: "&4&oCan be placed on the planks"
+     10: "&4&oCan be placed on the stonebricks"
+     11: "&4&oCan be placed on the iron blocks"
+     12: "&4&oCan be placed on the End stones"
+     13: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 13
+   slow:
+    p: 150
+    name: "&5&oSlow Trap"
+    lore:
+     1: "&e&oNOT YET IMPLEMENTED, NOT WORKING !"
+     2: "&4&o "
+     3: "&4&oSet a slowness trap"
+     4: "&4&oFires when ennemy(ies) is near it"
+     5: "&4&oDecreases walking speed by 30%"
+     6: "&4&o "
+     7: "&4&oCan be placed on the grass"
+     8: "&4&oCan be placed on the stone"
+     9: "&4&oCan be placed on the planks"
+     10: "&4&oCan be placed on the stonebricks"
+     11: "&4&oCan be placed on the iron blocks"
+     12: "&4&oCan be placed on the End stones"
+     13: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 13
+   harm:
+    p: 100
+    name: "&7&oHarm Trap"
+    lore:
+     1: "&e&oNOT YET IMPLEMENTED, NOT WORKING !"
+     2: "&4&o "
+     3: "&4&oSet a damage trap"
+     4: "&4&oFires when ennemy(ies) is near it"
+     5: "&4&oInstantly inflicts 6 damage (3 hearts)"
+     6: "&4&o "
+     7: "&4&oCan be placed on the grass"
+     8: "&4&oCan be placed on the stone"
+     9: "&4&oCan be placed on the planks"
+     10: "&4&oCan be placed on the stonebricks"
+     11: "&4&oCan be placed on the iron blocks"
+     12: "&4&oCan be placed on the End stones"
+     13: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 13
+   weak:
+    p: 60
+    name: "&3&oWeak Trap"
+    lore:
+     1: "&e&oNOT YET IMPLEMENTED, NOT WORKING !"
+     2: "&4&o "
+     3: "&4&oSet a weakness trap"
+     4: "&4&oFires when ennemy(ies) is near it"
+     5: "&4&oMele damage is reduced by 4 (2 hearts)"
+     6: "&4&o "
+     7: "&4&oCan be placed on the grass"
+     8: "&4&oCan be placed on the stone"
+     9: "&4&oCan be placed on the planks"
+     10: "&4&oCan be placed on the stonebricks"
+     11: "&4&oCan be placed on the iron blocks"
+     12: "&4&oCan be placed on the End stones"
+     13: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 13
+    
+  fishrod:
+   p: 20
+   name: "&oFishing rod"
+   lore:
+    1: "&4&oUsed to attract entities"
+    2: "&4&o "
+    3: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oSo...it bites ? "
+    nbr: 3
+   
+  lighter:
+   p: 15
+   name: "&oLighter"
+   lore:
+    1: "&4&oUsed to ignite the planks"
+    2: "&4&oUsed to ignite Tnt"
+    3: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oWe've never told you not to play with fire ?!"
+    nbr: 3
+   
+  ladders:
+   p: 45
+   name: "&oLadders"
+   lore:
+    1: "&4&oUsed to climb on the walls"
+    2: "&4&o "
+    3: "&4&oCan be placed on the planks"
+    4: "&4&oCan be placed on the stonebricks"
+    5: "&4&oCan be placed on the iron blocks"
+    6: "&4&oCan be placed on the End stones"
+    7: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oBe careful to fear of heights"
+    nbr: 7
+   
+  enderpearl:
+   p: 65
+   name: "&oEnder Pearl"
+   lore:
+    1: "&4&oUsed to teleport"
+    2: "&4&oCan be used to pass over the walls"
+    3: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oDeath sometimes comes froms above"
+    nbr: 3

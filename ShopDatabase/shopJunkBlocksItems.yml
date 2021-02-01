@@ -1,0 +1,130 @@
+junk:
+ blocks:
+  planks:
+   p4: 4
+   p16: 16
+   p32: 32
+   p64: 64
+   name: "&oWood Planks" 
+   lore: 
+    1: "&4&oCan be break with wood pickaxe"
+    2: "&4&oCan be break with stone pickaxe"
+    3: "&4&oCan be break with iron pickaxe"
+    4: "&4&oCan be break with diamond pickaxe"
+    5: "&4&o "
+    6: "&4&oGood resistance to pickaxe"
+    7: "&4&oLow resistance to explosions"
+    8: "&4&oLow resistance to fire"
+    9: "&4&o "
+    10: "&4&oCan be placed on the wool"
+    11: "&4&oCan be placed on the stone"
+    12: "&4&oCan be placed on the planks"
+    13: "&4&oCan be placed on the stonebricks"
+    14: "&4&oCan be placed on the iron blocks"
+    15: "&4&oCan be placed on the End stones"
+    16: "&4&o "
+    end: "&6~~~~"
+    a: "&3&o "
+    nbr: 16
+   nopBegin: "&oPrice for "
+   nopEnd: "x &oWood Planks"
+
+  stonebricks:
+   p4: 12
+   p16: 48
+   p32: 96
+   p64: 192
+   name: "&oStonebricks" 
+   lore: 
+    1: "&4&oCan be break with stone pickaxe"
+    2: "&4&oCan be break with iron pickaxe"
+    3: "&4&oCan be break with diamond pickaxe"
+    4: "&4&o "
+    5: "&4&oAverage resistance to explosions"
+    6: "&4&oNon-flammable"
+    7: "&4&o "
+    8: "&4&oCan be placed on the wool"
+    9: "&4&oCan be placed on the stone"
+    10: "&4&oCan be placed on the planks"
+    11: "&4&oCan be placed on the stonebricks"
+    12: "&4&oCan be placed on the iron blocks"
+    13: "&4&oCan be placed on the End stones"
+    14: "&4&o "
+    end: "&6~~~~"
+    a: "&3&o "
+    nbr: 14
+   nopBegin: "&oPrice for "
+   nopEnd: "x &oStoneBricks"
+   
+  iron:
+   p4: 24
+   p16: 96
+   p32: 192
+   p64: 384
+   name: "&oIron blocks" 
+   lore:
+    1: "&4&oCan be break with iron pickaxe"
+    2: "&4&oCan be break with diamond pickaxe"
+    3: "&4&o "
+    4: "&4&oAverage resistance to explosions"
+    5: "&4&oNon-flammable"
+    6: "&4&o "
+    7: "&4&oCan be placed on the wool"
+    8: "&4&oCan be placed on the stone"
+    9: "&4&oCan be placed on the planks"
+    10: "&4&oCan be placed on the stonebricks"
+    11: "&4&oCan be placed on the iron blocks"
+    12: "&4&oCan be placed on the End stones"
+    13: "&4&o "
+    end: "&6~~~~"
+    a: "&3&o "
+    nbr: 13
+   nopBegin: "&oPrice for "
+   nopEnd: "x &oIron Blocks"
+
+  ender:
+   p4: 40
+   p16: 160
+   p32: 320
+   p64: 640
+   name: "&oEnd stones" 
+   lore:
+    1: "&4&oCan be break with diamond pickaxe"
+    2: "&4&o "
+    3: "&4&oGood resistance to explosions"
+    4: "&4&oNon-flammable"
+    5: "&4&o "
+    6: "&4&oCan be placed on the wool"
+    7: "&4&oCan be placed on the stone"
+    8: "&4&oCan be placed on the planks"
+    9: "&4&oCan be placed on the stonebricks"
+    10: "&4&oCan be placed on the iron blocks"
+    11: "&4&oCan be placed on the End stones"
+    12: "&4&o "
+    end: "&6~~~~"
+    a: "&3&o "
+    nbr: 12
+   nopBegin: "&oPrice for "
+   nopEnd: "x &oEnd Stones"
+
+  tnt:
+   p1: 40
+   p2: 75
+   p3: 110
+   p5: 180
+   name: "&oTnT" 
+   lore:
+    1: "&4&oUsed to blow the walls of defenders"
+    2: "&4&o "
+    3: "&4&oCan be placed on the wool"
+    4: "&4&oCan be placed on the stone"
+    5: "&4&oCan be placed on the planks"
+    6: "&4&oCan be placed on the stonebricks"
+    7: "&4&oCan be placed on the iron blocks"
+    8: "&4&oCan be placed on the End stones"
+    9: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oCalm before the storm"
+    nbr: 9
+   nopBegin: "&oPrice for "
+   nopEnd: "x &oTnT"

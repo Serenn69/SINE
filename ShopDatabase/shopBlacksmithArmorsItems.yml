@@ -1,0 +1,136 @@
+blacksmith:  
+ armors:
+  helmets:
+   leather:
+    p: 5
+    name: "&oLeather helmet"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWindbreaker !"
+     nbr: 3
+   iron:
+    p: 10
+    name: "&oIron helmet"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oKeep your minds fresh !"
+     nbr: 3
+   diamond:
+    p: 15
+    name: "&oDiamond helmet"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oDazzling !"
+     nbr: 3
+  chestplates:
+   leather:
+    p: 15
+    name: "&oLeather chestplate"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oPretty tight"
+     nbr: 3
+   iron:
+    p: 30
+    name: "&oIron chestplate"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oCold but effective !"
+     nbr: 3
+   diamond:
+    p: 40
+    name: "&oDiamond chestplate"
+    lore:
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oBling-bling ! "
+     nbr: 3
+  leggings:
+   leather:
+    p: 10
+    name: "&oLeather leggings"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFit a lot (too much) the shape"
+     nbr: 3
+   iron:
+    p: 25
+    name: "&oIron leggings"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oHard to ironing"
+     nbr: 3
+   diamond:
+    p: 30
+    name: "&oDiamond leggings"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oAnti-theft insurance is included ?"
+     nbr: 3
+  boots:
+   leather:
+    p: 5
+    name: "&oLeather boots"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oSo most common"
+     nbr: 3
+   iron:
+    p: 10
+    name: "&oIron boots"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oA little heavy to run with !"
+     nbr: 3
+   diamond:
+    p: 15
+    name: "&oDiamond boots"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oScratch the floor"
+     nbr: 3
+  shield:
+   p: 18
+   name: "&oShield"
+   lore: 
+    1: "&4&oBlock arrows"
+    2: "&4&o "
+    3: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oThis is SPARTA !"
+    nbr: 3

@@ -1,0 +1,77 @@
+back:
+ 1: "&l-"
+ 2: "&lBack"
+ 3: "&lto top"
+ 4: "&l-"
+
+index:
+ 1: "&lINDEX :"
+ 3: "&l-                "
+ 4: "&l--               "
+ blacksmith: "&9&lBlacksmith"
+ enchant: "&9&lEnchanter"
+ potions: "&9&lAlchemist"
+ junk: "&9&lJunk Dealer"
+
+blacksmith:
+ 1: "&c&lBLACKSMITH"
+ 2: "&l-"
+ 3: "&9&lWeapons"
+ 4: "&9&land Armors"
+
+enchant:
+ 1: "&c&lENCHANTER"
+ 2: "&l-"
+ 3: "&9&lEnchantments"
+ 4: ""
+
+potions:
+ 1: "&c&lALCHEMIST"
+ 2: "&l-"
+ 3: "&9&lPotions, splash"
+ 4: "&9&land lingering"
+
+junk:
+ 1: "&c&lJUNK DEALER"
+ 2: "&l-"
+ 3: "&9&lBlocks, tools"
+ 4: "&9&land various"
+
+weapons:
+ 1: "&l-"
+ 2: "&c&lWEAPONS"
+ 4: "&l-"
+
+armors:
+ 1: "&l-"
+ 2: "&c&lARMORS"
+ 4: "&l-"
+
+potions:
+ solo:
+  1: "&l-"
+  2: "&c&lDRINKABLE"
+  3: "&c&lPOTIONS"
+  4: "&l-"
+
+ splash:
+  1: "&l-"
+  2: "&c&lSPLASH"
+  3: "&c&lPOTIONS"
+  4: "&l-"
+
+ lingering:
+  1: "&l-"
+  2: "&c&lLINGERING"
+  3: "&c&lPOTIONS"
+  4: "&l-"
+
+blocks:
+ 1: "&l-"
+ 2: "&c&lBLOCKS"
+ 4: "&l-"
+
+tools:
+ 1: "&l-"
+ 2: "&c&lTOOLS"
+ 4: "&l-"

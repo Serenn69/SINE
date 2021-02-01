@@ -1,0 +1,390 @@
+teams:
+ one:
+  fromHall:
+   x: -2.5
+   y: 29.0
+   z: -41.5
+   pitch: -180
+   yaw: 0
+  rdySign:
+   x: -3
+   y: 30
+   z: -55
+  nbrSign:
+   x: -3
+   y: 31
+   z: -55
+  door:
+   x: -1
+   y: 29
+   z: -38
+  shop:
+   x: -50.5
+   y: 77
+   z: -133.5
+  rdyshopS:
+   x: -51
+   y: 79
+   z: -130
+  rdyshopN:
+   x: -51
+   y: 79
+   z:  -138
+  atk:
+   x: -72.5
+   y: 14
+   z: -77.5
+   pitch: 0
+   yaw: 0
+  defSmall:
+   x: 64.5
+   y: 14
+   z: -14.5
+   pitch: 180
+   yaw: 0
+  defLarge:
+   x: 60.5
+   y: 14
+   z: -4.5
+   pitch: 180
+   yaw: 0
+  scoreRoom:
+   1:
+    x: -48.5
+    y: 64
+    z: -133.5
+    pitch: 90
+    yaw: -12
+   2:
+    x: -48.5
+    y: 64
+    z: -134.5
+    pitch: 76
+    yaw: -12
+   3:
+    x: -48.5
+    y: 64
+    z: -132.5
+    pitch: 103
+    yaw: -12
+   4:
+    x: -48.5
+    y: 64
+    z: -135.5
+    pitch: 64
+    yaw: -11
+   5:
+    x: -48.5
+    y: 64
+    z: -131.5
+    pitch: 116
+    yaw: -11
+ two:
+  fromHall:
+   x: 3.5
+   y: 29.0
+   z: -41.5
+   pitch: -180
+   yaw: 0
+  rdySign:
+   x: 3
+   y: 30
+   z: -55
+  nbrSign:
+   x: 3
+   y: 31
+   z: -55
+  door:
+   x: 1
+   y: 29
+   z: -38
+  shop:
+   x: 52.5
+   y: 77
+   z: -133.5
+  rdyshopS:
+   x: 52
+   y: 79
+   z: -130
+  rdyshopN:
+   x: 52
+   y: 79
+   z: -138
+  atk:
+   x: 67.5
+   y: 14
+   z: -77.5
+   pitch: 0
+   yaw: 0
+  defSmall:
+   x: -75.5
+   y: 14
+   z: -14.5
+   pitch: 180
+   yaw: 0
+  defLarge:
+   x: -79.5
+   y: 14
+   z: -4.5
+   pitch: 180
+   yaw: 0
+  scoreRoom:
+   1:
+    x: 50.5
+    y: 64
+    z: -133.5
+    pitch: -90
+    yaw: -12
+   2:
+    x: 50.5
+    y: 64
+    z: -132.5
+    pitch: -103
+    yaw: -12
+   3:
+    x: 50.5
+    y: 64
+    z: -134.5
+    pitch: -75
+    yaw: -12
+   4:
+    x: 50.5
+    y: 64
+    z: -131.5
+    pitch: -116
+    yaw: -11
+   5:
+    x: 50.5
+    y: 64
+    z: -135.5
+    pitch: -63
+    yaw: -11
+ three:
+  fromHall:
+   x: 0.5
+   y: 34.0
+   z: -56.5
+   pitch: 0
+   yaw: 0
+ caster:
+  shop:
+   x: 1.5
+   y: 112
+   z: -76.5
+   pitch: -180
+   yaw: 20
+  figO:
+   x: -70.5
+   y: 32
+   z: -1.3
+   pitch: -180
+   yaw: 39
+  figT:
+   x: 70.5
+   y: 32
+   z: -1.3
+   pitch: -180
+   yaw: 39
+  scoreRoom:
+   x: 0.5
+   y: 25
+   z: -10.5
+   pitch: 180
+   yaw: -15
+
+hall:
+ spawn:
+  x: 0.5
+  y: 32
+  z: 0.5
+  pitch: 180
+  yaw: -47
+ lamp:
+  x: 0
+  y: 29
+  z: -57
+ dooro:
+  x: -4
+  y: 32
+  z: -37
+ doort:
+  x: 4
+  y: 32
+  z: -37
+ fromTeams:
+  x: 0.5
+  y: 32.0
+  z: -28.5
+  pitch: -180
+  yaw: 0
+ fromSetRul:
+  x: -8.5
+  y: 32.0
+  z: -12.5
+  pitch: -160
+  yaw: 0
+settingsLoc:
+ fromHall:
+  x: 6.5
+  y: 2.0
+  z: -23.5
+  pitch: 90
+  yaw: 0
+rules:
+ fromHall:
+  x: 6.5
+  y: 2.0
+  z: -1.5
+  pitch: 90
+  yaw: 0
+
+settings:
+ teams:
+  equi:
+   x: 5
+   y: 3
+   z: -28
+  ff:
+   x: 3
+   y: 3
+   z: -28
+  invis:
+   x: 1
+   y: 3
+   z: -28
+ maps:
+  map:
+   x: -1
+   y: 3
+   z: -28
+  size:
+   x: -3
+   y: 3
+   z: -28
+ timers:
+  def:
+   x: -5
+   y: 3
+   z: -26
+  fight:
+   x: -5
+   y: 3
+   z: -24
+  prep:
+   x: -5
+   y: 3
+   z: -22
+ game:
+  rank:
+   x: 5
+   y: 3
+   z: -20
+  day:
+   x: 3
+   y: 3
+   z: -20
+  weather:
+   x: 1
+   y: 3
+   z: -20
+  begin:
+   x: -1
+   y: 3
+   z: -20
+  golds:
+   x: -3
+   y: 3
+   z: -20
+ broadcast:
+  x: 7
+  y: 3
+  z: -22
+  
+admin:
+ x: 0.5
+ y: 26
+ z: -4.5
+ 
+score:
+ one:
+  NW:
+   x: -59
+   y: 24
+   z: -89
+  SW:
+   x: -83
+   y: 24
+   z: 13
+  NE:
+   x: 57
+   y: 24
+   z: -89
+  SE:
+   x: 81
+   y: 24
+   z: 13
+ two:
+  NW:
+   x: -52
+   y: 24
+   z: -89
+  SW:
+   x: -90
+   y: 24
+   z: 13
+  NE:
+   x: 50
+   y: 24
+   z: -89
+  SE:
+   x: 88
+   y: 24
+   z: 13
+   
+scoreRoom:
+ holo:
+  one:
+   x: -52.5
+   y: 66
+   z: -133.5
+  two:
+   x: 54.5
+   y: 66
+   z: -133.5
+  casterOne:
+   x: -1.5
+   y: 27
+   z: -14.5
+  casterTwo:
+   x: 2.5
+   y: 27
+   z: -14.5
+ lamp:
+  one:
+   x: -53
+   y: 64
+   z: -134
+  two:
+   x: 54
+   y: 64
+   z: -134
+  casterOne:
+   x: -2
+   y: 25
+   z: -15
+  casterTwo:
+   x: 2
+   y: 25
+   z: -15
+   
+prevRd:
+ x: -3
+ y: 110
+ z: -82
+ 
+logo:
+ x: 7.5
+ y: 131
+ z: -61.7
+ pitch: 0
+ yaw: 70

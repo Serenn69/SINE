@@ -1,0 +1,40 @@
+name: SINE
+version: Alpha v0.3
+author: Phoenix
+main: fr.phoenix.sineplugin.Main
+depend: [WorldGuard]
+
+commands:
+  paste:
+    description: Paste a structure at your current location
+    usage: /paste <filename>
+  save:
+    description: Save a cuboid structure
+    usage: /save <filename>
+  save-special:
+    description: Save a non-cuboid structure
+    usage: /save-special <filename> <baseBlockMaterial> <baseBlockData> <ignoreBaseBlocks?>
+  admin:
+    description: Auth you on SINE as Admin
+    permission: admin.use
+    permission-message:
+  caster:
+    description: Auth you on SINE as Caster
+    permission: caster.use
+    permission-message:
+  spec:
+    description: Auth you on SINE as Spectator
+    permission: spec.use
+    permission-message:
+  player:
+    description: Just become a lambda Player
+    permission: player.use
+    permission-message:
+  unblack:
+    description: Admin command to unBlacklist
+    permission: admin.use
+    permission-message:
+  vote:
+    description: Caster and Spec vote for MVP
+    permission: spec.use
+    permission-message:

@@ -1,0 +1,235 @@
+alchemist:
+ potions:
+  solo:
+   regen:
+    p: 5
+    name: "&oPotion of Regeneration"
+    lore:
+     1: "&4&oRestores 18 health over time (9 hearts)"
+     2: "&4&o1 health every 2.5 seconds"
+     3: "&4&oLasts 45 seconds"
+     4: "&4&oPersonnal use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   swiftness:
+    p: 4
+    name: "&oPotion of Swiftness"
+    lore:
+     1: "&4&oIncreases speed by 20% and increases FOV"
+     2: "&4&oLasts 3 minutes"
+     3: "&4&oPersonnal use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   heal:
+    p: 2
+    name: "&oPotion of Healing"
+    lore:
+     1: "&4&oRestores 4 health (2 hearts)"
+     2: "&4&oInstant effect"
+     3: "&4&oPersonnal use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   strength:
+    p: 18
+    name: "&oPotion of Strength"
+    lore:
+     1: "&4&oIncreases melee damage by 3 (1.5 hearts)"
+     2: "&4&oLasts 3 minutes"
+     3: "&4&oPersonnal use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   leaping2:
+    p: 3
+    name: "&oPotion of Leaping II"
+    lore:
+     1: "&4&oIncreases jump height (over 2 blocks)"
+     2: "&4&oReduces fall damage"
+     3: "&4&oLasts 1.5 minutes"
+     4: "&4&oPersonnal use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   waterbreath:
+    p: 3
+    name: "&oPotion of Water Breathing"
+    lore:
+     1: "&4&oPrevents the oxygen bar from decreasing"
+     2: "&4&oSlightly increases visibility while underwater"
+     3: "&4&oLasts 3 minutes"
+     4: "&4&oPersonnal use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   invis:
+    p: 20
+    name: "&oPotion of Invisibility"
+    lore:
+     1: "&4&oMakes player model disappear"
+     2: "&4&oArmor or item in hand or arrows stuck into player are visible"
+     3: "&4&oLasts 3 minutes"
+     4: "&4&oPersonnal use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+
+  splash:
+   regen:
+    p: 10
+    name: "&oSplash potion of Regeneration"
+    lore:
+     1: "&4&oRestores 18 health over time (9 hearts)"
+     2: "&4&o1 health every 2.5 seconds"
+     3: "&4&oLasts 45 seconds"
+     4: "&4&oInstant AoE use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   swiftness:
+    p: 8
+    name: "&oSplash potion of Swiftness"
+    lore:
+     1: "&4&oIncreases speed by 20% and increases FOV"
+     2: "&4&oLasts 3 minutes"
+     3: "&4&oInstant AoE use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   heal:
+    p: 4
+    name: "&oSplash potion of Healing"
+    lore:
+     1: "&4&oRestores 4 health (2 hearts)"
+     2: "&4&oInstant effect"
+     3: "&4&oInstant AoE use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   poison:
+    p: 8
+    name: "&oSplash potion of Poison"
+    lore:
+     1: "&4&oCauses up to 36 DoT (18 hearts)"
+     2: "&4&oNot reduce health below 0.5 heart"
+     3: "&4&oLasts 45 seconds"
+     4: "&4&oInstant AoE use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   harming:
+    p: 12
+    name: "&oSplash potion of Harming"
+    lore:
+     1: "&4&oDamages 6 health (3 hearts)"
+     2: "&4&oInstant effect" 
+     3: "&4&oInstant AoE use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   slowness:
+    p: 8
+    name: "&oSplash potion of Slowness"
+    lore:
+     1: "&4&oSlows players by 15%"
+     2: "&4&oLasts 1.5 minutes"
+     3: "&4&oInstant AoE use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   weakness:
+    p: 8
+    name: "&oSplash potion of Weakness"
+    lore:
+     1: "&4&oReduces melee damage by 4 (2 hearts)"
+     2: "&4&oLasts 1.5 minutes"
+     3: "&4&oInstant AoE use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+
+  lingering:
+   regen:
+    p: 15
+    name: "&oLingering potion of Regeneration"
+    lore:
+     1: "&4&oRestores 18 health over time (9 hearts)"
+     2: "&4&o1 health every 2.5 seconds"
+     3: "&4&oLasts 22 seconds"
+     4: "&4&oLingering AoE Cloud use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   poison:
+    p: 12
+    name: "&oLingering potion of Poison"
+    lore:
+     1: "&4&oCauses up to 36 DoT (18 hearts)"
+     2: "&4&oNot reduce health below 0.5 heart"
+     3: "&4&oLasts 22 seconds"
+     4: "&4&oLingering AoE Cloud use"
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   harming:
+    p: 18
+    name: "&oLingering potion of Harming"
+    lore:
+     1: "&4&oDamages 6 health (3 hearts)"
+     2: "&4&oInstant effect" 
+     3: "&4&oLingering AoE Cloud use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   slowness:
+    p: 12
+    name: "&oLingering potion of Slowness"
+    lore:
+     1: "&4&oSlows players by 15%"
+     2: "&4&oLasts 1 minute"
+     3: "&4&oLingering AoE Cloud use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5
+   weakness:
+    p: 12
+    name: "&oLingering potion of Weakness"
+    lore:
+     1: "&4&oReduces melee damage by 4 (2 hearts)"
+     2: "&4&oLasts 1 minute"
+     3: "&4&oLingering AoE Cloud use"
+     4: "&4&o "
+     5: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o "
+     nbr: 5

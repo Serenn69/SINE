@@ -1,0 +1,71 @@
+menu:
+ shop:
+  blacksmith:
+   weapons: "&0&lWeapons"
+   armors: "&0&lArmors"
+  enchanter:
+   weapons: "&d&lWeapon Enchants"
+   armors: "&d&lArmor Enchants"  
+  alchemist:
+   solo: "&9&lPersonnal Potions"
+   splash: "&9&lSplash Potions"
+   lingering: "&9&lLingering Potions"
+  junk:
+   blocks: "&2&lBlocks"
+   tools: "&2&lTools"
+
+npc:
+ shop:
+  blacksmith: "&0&lBlacksmith"
+  enchanter: "&d&lEnchanter"
+  alchemist: "&9&lAlchemist"
+  junk: "&2&lJunk Dealer"
+  tp: "&b&lTeleporter"
+    
+ easter:
+  teams:
+   one:
+    mag1:
+     v1:  "&6&lKaewynn"
+     v1s: "&7&lLa Force est avec moi ! non ?"
+    mag2:
+     v1:  "&6&lNestor"
+     v1s: "&7&lBienvenue dans la fantastique armée du paladin de Braav !"
+    mag3:
+     v1:  "&6&lMordaan"
+     v1s: "&7&lPas de monnaie ? Pas de soucis ! Signe moi cette reconnaissance de dettes !"
+    mag4:
+     v1: "&6&lSaki"
+     v1s: "&7&lIm Saki Community Manager SINE !"
+    mag5:
+     v1: "&6&lSwan"
+     v1s: "&7&lTomber d'un arbre d'1 mètre et mourir 3 fois ! vous êtes sérieux oO ?!"
+    mag6:
+     v1: "&6&lTalphan"
+     v1s: "&7&lVous auriez pas un ou deux cornichons ?"
+   
+   two:
+    mag1:
+     v1: "&6&lAnadienm"
+     v1s: "&7&lJe pense que je crois que j'sais pas ?"
+     v2: "&6&lArlac" 
+     v2s: "&7&lPapou !!!"
+    mag2:
+     v1: "&6&lAujniqelec"
+     v1s: "&7&lTSEPMAMIER"
+     v2: "&6&lHilcem" 
+     v2s: "&7&lAJEEUNQSA"
+    mag3:
+     v1: "&6&lSsan"
+     v1s: "&7&lRetrouvez-nous sur GameAge !"
+     v2: "&6&lJarom" 
+     v2s: "&7&lEt aussi sur RduJeu !"
+    mag4:
+     v1: "&6&lGrif"
+     v1s: "&7&lDigiWave et MCPG - Retrouvez nos events E-Sport !"
+    mag5:
+     v1: "&6&lPumpkin"
+     v1s: "&7&lLa citrouille c'est la vie ! PumpkinHead POWAAAA !"
+    mag6:
+     v1: "&6&lAnthelia"
+     v1s: "&7&lHey Bro !"

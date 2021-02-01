@@ -1,0 +1,239 @@
+enchanter:
+ armors:
+  protection:
+   1:
+    p: 5
+    name: "&oProtection I"
+    lore:
+     1: "&4&oApply Protection I on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMore renforced !"
+     nbr: 3
+   2:
+    p: 10
+    name: "&oProtection II"
+    lore:
+     1: "&4&oApply Protection II on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMore renforced !"
+     nbr: 3
+   3:
+    p: 15
+    name: "&oProtection III"
+    lore:
+     1: "&4&oApply Protection III on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMore renforced !"
+     nbr: 3
+   4:
+    p: 20
+    name: "&oProtection IV"
+    lore:
+     1: "&4&oApply Protection IV on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMore renforced !"
+     nbr: 3
+  fireprot:
+   1:
+    p: 3
+    name: "&oFire Protection I"
+    lore:
+     1: "&4&oApply Fire Protection I on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFireproof !"
+     nbr: 3
+   2:
+    p: 6
+    name: "&oFire Protection II"
+    lore:
+     1: "&4&oApply Fire Protection II on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFireproof ! "
+     nbr: 3
+   3:
+    p: 10
+    name: "&oFire Protection III"
+    lore:
+     1: "&4&oApply Fire Protection III on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFireproof !"
+     nbr: 3
+   4:
+    p: 15
+    name: "&oFire Protection IV"
+    lore:
+     1: "&4&oApply Fire Protection IV on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFireproof !"
+     nbr: 3
+  projectileprot:
+   1:
+    p: 3
+    name: "&oProjectile Protection I"
+    lore:
+     1: "&4&oApply Projectile Protection I on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oArrowproof ! what ?!!"
+     nbr: 3
+   2:
+    p: 6
+    name: "&oProjectile Protection II"
+    lore:
+     1: "&4&oApply Projectile Protection II on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oArrowproof ! what ?!!"
+     nbr: 3
+   3:
+    p: 10
+    name: "&oProjectile Protection III"
+    lore:
+     1: "&4&oApply Projectile Protection III on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oArrowproof ! what ?!!"
+     nbr: 3
+   4:
+    p: 15
+    name: "&oProjectile Protection IV"
+    lore:
+     1: "&4&oApply Projectile Protection IV on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oArrowproof ! what ?!!"
+     nbr: 3
+  thorns:
+   1:
+    p: 10
+    name: "&oThorns I"
+    lore:
+     1: "&4&oApply Thorns I on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oIf you go looking for trouble you'll find it !"
+     nbr: 3
+   2:
+    p: 15
+    name: "&oThorns II"
+    lore:
+     1: "&4&oApply Thorns II on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oIf you go looking for trouble you'll find it !"
+     nbr: 3
+   3:
+    p: 20
+    name: "&oThorns III"
+    lore:
+     1: "&4&oApply Thorns III on item in hand"
+     2: "&4&oOnly for helmets, chestplates, leggings and boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oIf you go looking for trouble you'll find it !"
+     nbr: 3
+  respiration:
+   1:
+    p: 4
+    name: "&oRespiration I"
+    lore:
+     1: "&4&oApply Respiration I on item in hand"
+     2: "&4&oOnly for helmets"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oLike a mermaid"
+     nbr: 3
+   2:
+    p: 8
+    name: "&oRespiration II"
+    lore:
+     1: "&4&oApply Respiration II on item in hand"
+     2: "&4&oOnly for helmets"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oLike a mermaid"
+     nbr: 3
+   3:
+    p: 12
+    name: "&oRespiration III"
+    lore:
+     1: "&4&oApply Respiration III on item in hand"
+     2: "&4&oOnly for helmets"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oLike a mermaid"
+     nbr: 3
+  depthstrider:
+   1:
+    p: 10
+    name: "&oDepth Strider I"
+    lore:
+     1: "&4&oApply Depth Strider I on item in hand"
+     2: "&4&oOnly for boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFlash ! (fish version...)"
+     nbr: 3
+   2:
+    p: 20
+    name: "&oDepth Strider II"
+    lore:
+     1: "&4&oApply Depth Strider II on item in hand"
+     2: "&4&oOnly for boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFlash ! (fish version...)"
+     nbr: 3
+   3:
+    p: 30
+    name: "&oDepth Strider III"
+    lore:
+     1: "&4&oApply Depth Strider III on item in hand"
+     2: "&4&oOnly for boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFlash ! (fish version...)"
+     nbr: 3
+  frostwalker:
+   1:
+    p: 8
+    name: "&oFrost Walker I"
+    lore:
+     1: "&4&oApply Frost Walker I on item in hand"
+     2: "&4&oOnly for boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMister Freeze ?!"
+     nbr: 3
+   2:
+    p: 12
+    name: "&oFrost Walker II"
+    lore:
+     1: "&4&oApply Frost Walker II on item in hand"
+     2: "&4&oOnly for boots"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oMister Freeze ?!"
+     nbr: 3

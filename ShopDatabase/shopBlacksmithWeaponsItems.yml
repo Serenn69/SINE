@@ -1,0 +1,155 @@
+blacksmith:
+ weapons:
+  swords:
+   wood:
+    p: 5
+    name: "&oWood Sword"
+    lore:
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oChildish but it's a start !"
+     nbr: 3
+   stone:
+    p: 10
+    name: "&oStone Sword"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oA little heavy anyway ! "
+     nbr: 3
+   iron:
+    p: 15
+    name: "&oIron Sword"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oFinally a proper sword !"
+     nbr: 3
+   diamond:
+    p: 25
+    name: "&oDiamond Sword"
+    lore: 
+     1: "&4&o "
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oWe play in the big leagues ?"
+     nbr: 3
+  axes:
+   wood:
+    p: 4
+    name: "&oWood Axe"
+    lore:
+     1: "&4&oUsed to capture the flag"
+     2: "&4&oCan disable a shield for 5 seconds"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oYou cut anything with it ?!"
+     nbr: 3
+   stone:
+    p: 8
+    name: "&oStone Axe"
+    lore:
+     1: "&4&oUsed to capture the flag"
+     2: "&4&oCan disable a shield for 5 seconds"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oPrehistoric style"
+     nbr: 3
+   iron:
+    p: 12
+    name: "&oIron Axe"
+    lore: 
+     1: "&4&oUsed to capture the flag"
+     2: "&4&oCan disable a shield for 5 seconds"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oThink you are a butcher ?"
+     nbr: 3
+   diamond:
+    p: 22
+    name: "&oDiamond Axe"
+    lore: 
+     1: "&4&oUsed to capture the flag"
+     2: "&4&oCan disable a shield for 5 seconds"
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oTo settle with class and style !"
+     nbr: 3
+  bow:
+   p: 15
+   name: "&oBow"
+   lore: 
+    1: "&4&oShoot arrows"
+    2: "&4&o "
+    3: "&4&o "
+    end: "&6~~~~"
+    a: "&3&oSo yes it's serious !"
+    nbr: 3
+  arrows:
+   standard:
+    p: 10
+    name: "&oStandard arrows"
+    lore:
+     1: "&4&oNormal"
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oOuch ! It stingsssss !"
+     nbr: 3
+   spectral:
+    p: 5
+    name: "&oSpectral arrows"
+    lore: 
+     1: "&4&oCreates a halo of light around the target"
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oAlleluiaaaaa !"
+     nbr: 3
+   poison:
+    p: 10
+    name: "&oPoison arrows"
+    lore: 
+     1: "&4&oPoisons the target"
+     2: "&4&oLasts 5 seconds "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oEffective against rats !"
+     nbr: 3
+   weakness:
+    p: 8
+    name: "&oWeakness arrows"
+    lore: 
+     1: "&4&oReduces melee damage of the target by 4 (2 hearts)"
+     2: "&4&oLasts 11 seconds "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o"
+     nbr: 3
+   slowness:
+    p: 8
+    name: "&oSlowness arrows"
+    lore: 
+     1: "&4&oSlows players by 15%"
+     2: "&4&oLasts 11 seconds "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&oRun Forest Run !"
+     nbr: 3
+   harming:
+    p: 15
+    name: "&oHarming arrows"
+    lore: 
+     1: "&4&oAdds instant damage on target"
+     2: "&4&o "
+     3: "&4&o "
+     end: "&6~~~~"
+     a: "&3&o"
+     nbr: 3

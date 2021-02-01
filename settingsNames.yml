@@ -1,0 +1,84 @@
+world:
+ name: "SINE Alpha"
+
+teams:
+ name:
+  one: "redTeam"
+  two: "greenTeam"
+  three: "specTeam"
+ prefix:
+  one: "&c"
+  two: "&a"
+  three: "&7"
+ display:
+  one: "&cRED"
+  two: "&aGREEN"
+  three: "&7SPECTATOR"
+ fakePlayers:
+  one: "[&cRED&f]"
+  two: "[&aGREEN&f]"
+  three: "[&7SPECTATOR&f]"
+  
+settings:
+ maps:
+  name:
+   a: "&c&lRUINS"
+   b: "&c&lFOREST"
+   c: "&c&lHILL"
+   d: "&c&lTRENCHEES"
+  sizeName:
+   a: "&c&lSMALL"
+   b: "&c&lLARGE"
+  sizePlay:
+   a: "&l3vs3"
+   b: "&l5vs5"
+  sizeDim:
+   a: "&l101 x 55"
+   b: "&l121 x 75"
+ timers:
+  name:
+   a: "Defense"
+   b: "Preparation"
+   c: "Fight"
+  defSecs:
+   a: "&c&lNo"
+   b: "&c&l20 seconds"
+   c: "&c&l60 seconds"
+  defNum:
+   a: -1
+   b: 21
+   c: 61
+  fightSecs:
+   a: "&c&lUnlimited"
+   b: "&c&l2 minutes"
+   c: "&c&l5 minutes"
+   d: "&c&l10 minutes"
+  fightNum:
+   a: -1
+   b: 120
+   c: 300
+   d: 600
+  prepSecs:
+   a: "&c&lUnlimited"
+   b: "&c&l30 seconds"
+   c: "&c&l60 seconds"
+   d: "&c&l2 minutes"
+  prepNum:
+   a: -1
+   b: 31
+   c: 61
+   d: 121
+ game:
+  launch: 10
+  rank:
+   a: "&c&lRANKED"
+   b: "&c&lUNRANKED"
+  beginOrder:
+   a: "&c&lRED &0&lattack"
+   b: "&a&lGREEN &0&ldefense"
+   c: "&c&lRED &0&ldefense"
+   d: "&a&lGREEN &0&lattack"
+  goldsMulti:
+   a: "&c&lx 1"
+   b: "&c&lx 2"
+   c: "&c&lx 3"

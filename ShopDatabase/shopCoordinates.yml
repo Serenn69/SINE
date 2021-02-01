@@ -1,0 +1,493 @@
+teams:
+ one:
+  tpS:
+   x: -50.5
+   y: 80
+   z: -130.5
+   yaw: 0
+   pitch: 0
+  tpN:
+   x: -50.5
+   y: 80
+   z: -136.5
+   yaw: 180
+   pitch: 0
+  mag1:
+   villager1:
+    x: -46.5
+    y: 77
+    z: -109.5
+    yaw: 115
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -50
+    y: 77
+    z: -109
+    yaw: 157
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -52
+    y: 77
+    z: -108
+    yaw: 168
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -54
+    y: 77
+    z: -108
+    yaw: -168
+    pitch: 0
+    p: 0
+   junk:
+    x: -56
+    y: 77
+    z: -109
+    yaw: -157
+    pitch: 0
+    p: 0
+
+      
+  mag2:
+   villager1:
+    x: -64.5
+    y: 77
+    z: -119.5
+    yaw: -156
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -65
+    y: 77
+    z: -123
+    yaw: -114
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -66
+    y: 77
+    z: -125
+    yaw: -102
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -66
+    y: 77
+    z: -127
+    yaw: -78
+    pitch: 0
+    p: 0
+   junk:
+    x: -65
+    y: 77
+    z: -129
+    yaw: -67
+    pitch: 0
+    p: 0
+
+  mag3:
+   villager1:
+    x: -64.5
+    y: 77
+    z: -139.5
+    yaw: -157
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -65
+    y: 77
+    z: -143
+    yaw: -113
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -66
+    y: 77
+    z: -145
+    yaw: -101
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -66
+    y: 77
+    z: -147
+    yaw: -78
+    pitch: 0
+    p: 0
+   junk:
+    x: -65
+    y: 77
+    z: -149
+    yaw: -67
+    pitch: 0
+    p: 0
+      
+  mag4:
+   villager1:
+    x: -54.5
+    y: 77
+    z: -157.5
+    yaw: -66
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -51
+    y: 77
+    z: -158
+    yaw: -23
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -49
+    y: 77
+    z: -159
+    yaw: -12
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -47
+    y: 77
+    z: -159
+    yaw: 12
+    pitch: 0
+    p: 0
+   junk:
+    x: -45
+    y: 77
+    z: -158
+    yaw: 23
+    pitch: 0
+    p: 0
+      
+  mag5:
+   villager1:
+    x: -36.5
+    y: 77
+    z: -148.5
+    yaw: 23
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -36
+    y: 77
+    z: -145
+    yaw: 68
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -35
+    y: 77
+    z: -143
+    yaw: 78
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -35
+    y: 77
+    z: -141
+    yaw: 102
+    pitch: 0
+    p: 0
+   junk:
+    x: -36
+    y: 77
+    z: -139
+    yaw: 114
+    pitch: 0
+    p: 0
+      
+  mag6:
+   villager1:
+    x: -36.5
+    y: 77
+    z: -128.5
+    yaw: 24
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: -36
+    y: 77
+    z: -125
+    yaw: 67
+    pitch: 0
+    p: 0
+   enchanter:
+    x: -35
+    y: 77
+    z: -123
+    yaw: 78
+    pitch: 0
+    p: 0
+   alchemist:
+    x: -35
+    y: 77
+    z: -121
+    yaw: 102
+    pitch: 0
+    p: 0
+   junk:
+    x: -36
+    y: 77
+    z: -119
+    yaw: 112
+    pitch: 0
+    p: 0
+    
+    
+ two:
+  tpS:
+   x: 52.5
+   y: 80
+   z: -130.5
+   yaw: 0
+   pitch: 0
+  tpN:
+   x: 52.5
+   y: 80
+   z: -136.5
+   yaw: 180
+   pitch: 0
+  mag1:
+   villager1:
+    x: 56.5
+    y: 77
+    z: -109.5
+    yaw: 112
+    pitch: 0
+    p: 0
+   villager2:
+    x: 56.5
+    y: 77.5
+    z: -108.5
+    yaw: 114
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 53
+    y: 77
+    z: -109
+    yaw: 157
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 51
+    y: 77
+    z: -108
+    yaw: 168
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 49
+    y: 77
+    z: -108
+    yaw: -168
+    pitch: 0
+    p: 0
+   junk:
+    x: 47
+    y: 77
+    z: -109
+    yaw: -157
+    pitch: 0
+    p: 0
+      
+  mag2:
+   villager1:
+    x: 39.5
+    y: 77
+    z: -119.5
+    yaw: -164
+    pitch: 0
+    p: 0
+   villager2:
+    x: 37.5
+    y: 77
+    z: -119.5
+    yaw: -155
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 38
+    y: 77
+    z: -123
+    yaw: -113
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 37
+    y: 77
+    z: -125
+    yaw: -102
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 37
+    y: 77
+    z: -127
+    yaw: -78
+    pitch: 0
+    p: 0
+   junk:
+    x: 38
+    y: 77
+    z: -129
+    yaw: -67
+    pitch: 0
+    p: 0
+
+  mag3:
+   villager1:
+    x: 39.5
+    y: 77
+    z: -139.5
+    yaw: -165
+    pitch: 0
+    p: 0
+   villager2:
+    x: 37.5
+    y: 77
+    z: -139.5
+    yaw: -156
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 38
+    y: 77
+    z: -143
+    yaw: -112
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 37
+    y: 77
+    z: -145
+    yaw: -101
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 37
+    y: 77
+    z: -147
+    yaw: -79
+    pitch: 0
+    p: 0
+   junk:
+    x: 38
+    y: 77
+    z: -149
+    yaw: -68
+    pitch: 0
+    p: 0
+      
+  mag4:
+   villager1:
+    x: 48.5
+    y: 77
+    z: -157.5
+    yaw: -70
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 52
+    y: 77
+    z: -158
+    yaw: -23
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 54
+    y: 77
+    z: -159
+    yaw: -12
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 56
+    y: 77
+    z: -159
+    yaw: 12
+    pitch: 0
+    p: 0
+   junk:
+    x: 58
+    y: 77
+    z: -158
+    yaw: 23
+    pitch: 0
+    p: 0
+      
+  mag5:
+   villager1:
+    x: 66.5
+    y: 77
+    z: -148.5
+    yaw: 20
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 67
+    y: 77
+    z: -145
+    yaw: 67
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 68
+    y: 77
+    z: -143
+    yaw: 78
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 68
+    y: 77
+    z: -141
+    yaw: 101
+    pitch: 0
+    p: 0
+   junk:
+    x: 67
+    y: 77
+    z: -139
+    yaw: 113
+    pitch: 0
+    p: 0
+      
+  mag6:
+   villager1:
+    x: 66.5
+    y: 77
+    z: -128.5
+    yaw: 20
+    pitch: 0
+    p: 0
+   blacksmith:
+    x: 67
+    y: 77
+    z: -125
+    yaw: 67
+    pitch: 0
+    p: 0
+   enchanter:
+    x: 68
+    y: 77
+    z: -123
+    yaw: 78
+    pitch: 0
+    p: 0
+   alchemist:
+    x: 68
+    y: 77
+    z: -121
+    yaw: 102
+    pitch: 0
+    p: 0
+   junk:
+    x: 67
+    y: 77
+    z: -119
+    yaw: 113
+    pitch: 0
+    p: 0
